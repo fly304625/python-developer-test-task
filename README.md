@@ -80,6 +80,6 @@ $ docker-compose run --rm app ./app
 [badge_language]:https://img.shields.io/badge/python-3-yellow?longCache=true
 [badge_docker]:https://img.shields.io/badge/docker-enable-blue?longCache=true
 [badge_use_template]:https://img.shields.io/badge/start-this_template_using-success.svg?longCache=true
-[link_build]:https://github.com/avtocod/python-developer-test-task/actions
+[link_build]:https://github.com/fly304625/python-developer-test-task/actions
 [link_create_issue]:https://github.com/fly304625/python-developer-test-task/issues/new
 [use_this_repo_template]:https://github.com/fly304625/python-developer-test-task/generate
